@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Eduardo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript, Git, HTML5 and CSS
-- 📫 How to reach me edu.pessoal@outlook.com
-- Linkedin: https://www.linkedin.com/in/eduardo-aguiar-s/
-<!---
-EduardoAguiarS/EduardoAguiarS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Olá seja bem vindo ao meu GitHub!
+<hr />
+
+#### Meu nome é Eduardo Aguiar, sinta-se a vontate para me chamar de Edu!
+##### Fique a vontade para se conectar e falar comigo no Linkedin <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/"><img align="right" alt="Linkedin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"><a/>
