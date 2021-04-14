@@ -14,4 +14,5 @@
 - <a href = "https://www.behance.net/eduardoaguiars">Design</a>
 - <a href = "https://www.artstation.com/eduardoaguiar">Modelagem 3D</a>
 - <a href = "https://steamcommunity.com/id/ownedslayer/">Games</a>
-- :email: Meu Email: edu.pessoal@outlook.com
+- :email: Meu Email:
+- edu.pessoal@outlook.com
