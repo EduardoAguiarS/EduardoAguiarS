@@ -1,9 +1,9 @@
 ### Olá seja bem vindo ao meu GitHub!
 <hr />
 
-**Meu nome é Eduardo Aguiar, sinta-se a vontate para me chamar de Edu!**
+**Meu nome é <a href="https://eduardoaguiars.github.io/">Eduardo</a>, sinta-se a vontate para me chamar de <a href="https://eduardoaguiars.github.io/">Edu!</a>**
 
-**Fique a vontade para se conectar e falar comigo no Linkedin** <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/"><img align="right" alt="Linkedin" width="40px" src="https://i1.wp.com/fenavist.org.br/wp-content/uploads/2018/05/linkedin-white-logo-1.png"><a/>
+**Fique a vontade para se conectar e falar comigo no <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/">Linkedin</a>** <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/"><img align="right" alt="Linkedin" width="40px" src="https://i1.wp.com/fenavist.org.br/wp-content/uploads/2018/05/linkedin-white-logo-1.png"><a/>
   
   <img align="right" alt="octocat" src="https://user-images.githubusercontent.com/78566280/114638970-220fdf80-9ca3-11eb-9bfd-13ee996cd3f9.png" width="500px"/>
   
