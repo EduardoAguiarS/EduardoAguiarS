@@ -3,7 +3,7 @@
 
 **Meu nome é Eduardo Aguiar, sinta-se a vontate para me chamar de Edu!**
 
-**Fique a vontade para se conectar e falar comigo no Linkedin** <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/"><img align="right" alt="Linkedin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"><a/>
+**Fique a vontade para se conectar e falar comigo no Linkedin** <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/"><img align="right" alt="Linkedin" width="40px" src="https://i1.wp.com/fenavist.org.br/wp-content/uploads/2018/05/linkedin-white-logo-1.png"><a/>
   
   <img align="right" alt="octocat" src="https://user-images.githubusercontent.com/78566280/114638970-220fdf80-9ca3-11eb-9bfd-13ee996cd3f9.png" width="500px"/>
   
