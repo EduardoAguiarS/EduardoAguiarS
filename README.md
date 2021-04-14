@@ -5,7 +5,7 @@
 
 **Fique a vontade para se conectar e falar comigo no Linkedin** <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/"><img align="right" alt="Linkedin" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"><a/>
   
-  <img align="right" alt="octocat" src="https://user-images.githubusercontent.com/78566280/114638970-220fdf80-9ca3-11eb-9bfd-13ee996cd3f9.png" width="300px"/>
+  <img align="right" alt="octocat" src="https://user-images.githubusercontent.com/78566280/114638970-220fdf80-9ca3-11eb-9bfd-13ee996cd3f9.png" width="400px"/>
   
 **Um pouco sobre min:**
 
@@ -18,18 +18,11 @@
 - edu.pessoal@outlook.com
 
 **Linguagens e ferramentas que mais gosto e tenho interesse em aprender:** 
-<p align="left">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-</p>  
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EduardoAguiarS&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAguiarS&hide=TeX&layout=compact&theme=tokyonight)
