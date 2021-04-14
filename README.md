@@ -7,7 +7,7 @@
   
   <img align="right" alt="octocat" src="https://user-images.githubusercontent.com/78566280/114638970-220fdf80-9ca3-11eb-9bfd-13ee996cd3f9.png" width="500px"/>
   
-**Um pouco sobre min:**
+**Um pouco sobre mim:**
 
 - 🌱 Atualmente estou estudando Desenvolvimento Web na <a href = "https://www.betrybe.com/" target="_blank">Trybe</a>
 - :video_game: Meus hobbies são: 
