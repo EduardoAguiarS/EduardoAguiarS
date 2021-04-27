@@ -9,7 +9,7 @@
   
 **Um pouco sobre mim:**
 
-- 🌱 Atualmente estou estudando Desenvolvimento Web na <a href = "https://www.betrybe.com/" target="_blank">Trybe</a>
+- 🌱 Atualmente estou estudando Desenvolvimento Web
 - :video_game: Meus hobbies são: 
 - <a href = "https://www.behance.net/eduardoaguiars">Design</a>
 - <a href = "https://www.artstation.com/eduardoaguiar">Modelagem 3D</a>
