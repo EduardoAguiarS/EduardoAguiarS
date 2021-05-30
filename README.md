@@ -3,7 +3,7 @@
 
 **Meu nome é <a href="https://edu-aguiar.web.app/">Eduardo</a>, sinta-se a vontate para me chamar de <a href="https://edu-aguiar.web.app/">Edu!</a>**
 
-**Fique a vontade para se conectar e falar comigo no <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/">Linkedin</a>** <a href = "https://www.linkedin.com/in/eduardo-aguiar-s/"><img align="right" alt="Linkedin" width="40px" src="https://i1.wp.com/fenavist.org.br/wp-content/uploads/2018/05/linkedin-white-logo-1.png"><a/>
+**Fique a vontade para se conectar e falar comigo no <a target="_blank" href = "https://www.linkedin.com/in/eduardo-aguiar-s/">Linkedin</a>** <a target="_blank" href = "https://www.linkedin.com/in/eduardo-aguiar-s/"><img align="right" alt="Linkedin" width="40px" src="https://i1.wp.com/fenavist.org.br/wp-content/uploads/2018/05/linkedin-white-logo-1.png"><a/>
   
   <img align="right" alt="octocat" src="https://user-images.githubusercontent.com/78566280/114638970-220fdf80-9ca3-11eb-9bfd-13ee996cd3f9.png" width="500px"/>
   
@@ -11,9 +11,9 @@
 
 - 🌱 Atualmente estou estudando Desenvolvimento Web
 - :video_game: Meus hobbies são: 
-- <a href = "https://www.behance.net/eduardoaguiars">Design</a>
-- <a href = "https://www.artstation.com/eduardoaguiar">Modelagem 3D</a>
-- <a href = "https://steamcommunity.com/id/ownedslayer/">Games</a>
+- <a target="_blank" href  = "https://www.behance.net/eduardoaguiars">Design</a>
+- <a target="_blank" href = "https://www.artstation.com/eduardoaguiar">Modelagem 3D</a>
+- <a target="_blank" href = "https://steamcommunity.com/id/ownedslayer/">Games</a>
 - :email: Meu Email:
 - edu.pessoal@outlook.com
 
