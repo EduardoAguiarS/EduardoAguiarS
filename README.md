@@ -8,7 +8,7 @@
   
 **Um pouco sobre mim:**
 
-- 🌱 Atualmente estou estudando Desenvolvimento Web
+- 🌱 Atualmente estou estudando Desenvolvimento Web e Tecnólogo em Análise de Desenvolvimento de Sistemas
 - :video_game: Meus hobbies são: 
 - <a target="_blank" href  = "https://www.behance.net/eduardoaguiars">Design</a>
 - <a target="_blank" href = "https://www.artstation.com/eduardoaguiar">Modelagem 3D</a>
