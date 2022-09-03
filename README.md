@@ -9,7 +9,6 @@
 **Um pouco sobre mim:**
 
 - 🌱 Atualmente estou estudando Desenvolvimento Web e Tecnólogo em Análise de Desenvolvimento de Sistemas.
-- Faço estágio na Original.io, e trabalho com ReactJS, Javascript, Typescript e Sass
 - :video_game: Meus hobbies são: 
 - <a target="_blank" href  = "https://www.behance.net/eduardoaguiars">Design</a>
 - <a target="_blank" href = "https://www.artstation.com/eduardoaguiar">Modelagem 3D</a>
