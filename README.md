@@ -12,7 +12,6 @@
 - :video_game: Meus hobbies são: 
 - <a target="_blank" href  = "https://www.behance.net/eduardoaguiars">Design</a>
 - <a target="_blank" href = "https://www.artstation.com/eduardoaguiar">Modelagem 3D</a>
-- <a target="_blank" href = "https://steamcommunity.com/id/ownedslayer/">Games</a>
 - :email: Meu Email:
 - edu.pessoal@outlook.com
 
