@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo!</h1>
 <h3 align="center">A student of Systems Analysis and Development, passionate about programming.</h3>
 
-- 🔭 I’m currently working on [InPeace App](inpeaceapp.com.br)
+- 🔭 I’m currently working on [InPeace App](https://inpeaceapp.com.br/)
 
 - 🌱 I’m currently learning **Typescript and Cypress**
 
